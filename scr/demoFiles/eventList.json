@@ -1,0 +1,106 @@
+{
+    "eventList" : [
+        {
+            "id" : 1,
+            "Customer_id" : 1,
+            "date" : "Wed,Jul 28-12:00 AM To 4:30 PM",
+            "eventName" : "Brand Of The Year 2023-2024",
+            "location" : "Le Royal Méridien, chennai",
+            "image" : "https://images-workbench.99static.com/Og0Adp5EZ9M7DVIDLd0kbx3RooU=/http://s3.amazonaws.com/projects-files/63/6317/631779/84fececa-1847-487d-9ca9-ede67fe7b353.jpg"
+        },
+        {
+           "id" : 2,
+           "Customer_id" : 1,
+           "date" :  "Mon,Jan 30-12:00 AM To 4:30 PM",
+           "eventName" : "Women’s Leadership Conference",
+           "location" : "PSB Conventions, chennai",
+           "image" : "https://images-platform.99static.com//qg1TEO1IWFMvSi5JzhIbANJoOuo=/0x0:1300x1300/fit-in/590x590/projects-files/24/2418/241885/aedfada0-2e9e-4bdb-a630-9f1d2a82b080.jpg"
+        },
+        {
+            "id" : 3,
+            "Customer_id" : 1,
+            "date" : "Tue,Dec 10-11:00 AM To 3:30 PM",
+            "eventName" : "Birth Celebration",
+            "location" : "Lotus Banquet, chennai",
+            "image" : "https://images-workbench.99static.com/IZGxlMPG9WUrih1RsCdCEyH3GfA=/99designs-contests-attachments/20/20786/attachment_20786756"
+        },
+        {
+            "id" : 4,
+            "Customer_id" : 1,
+            "date" : "Fri,Aug 13-1:00 AM To 7:30 PM",
+            "eventName" : "Best of Spring/summer 2024-2025",
+            "location" : "Nehru stadium, chennai",
+            "image" : "https://images-workbench.99static.com/9FFhJYRQsHrcPmfClHW3xoR8Pvo=/99designs-contests-attachments/133/133258/attachment_133258495"
+        },
+        {
+            "id" : 5,
+            "Customer_id" : 1,
+            "date" : "Wed,Mar 15-3:00 AM To 5:30 PM",
+            "eventName" : "Filmfare Awards 2024",
+            "location" : "EVP Film City, chennai",
+            "image" : "https://images-workbench.99static.com/XME_gOUFNOfKBmwtxiEbusj7McU=/http://s3.amazonaws.com/projects-files/161/16195/1619500/6106eb4a-44d8-4a37-8099-5be6b4607915.jpg"
+        },
+        {
+            "id" : 6,
+            "Customer_id" : 1,
+            "date" : "Tue,Dec 10-11:00 AM To 3:30 PM",
+            "eventName" :"Sport Award 2024-25",
+            "location" : "Marvel Film City, chennai",
+            "image" : "https://images-workbench.99static.com/RXYFDSTA6ojjUx9CXBoLfXo97ao=/99designs-contests-attachments/62/62275/attachment_62275000"
+        }
+    ],
+
+
+
+    "customerData" : [
+        {
+            "Customer_id" : 1,
+            "date" : "Wed,Jul 28",
+            "tokanNo" : 1,
+            "name" : "Ajay",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        },
+        {
+            "Customer_id" : 1,
+            "date" : "Mon,Jan 30",
+            "tokanNo" : 2,
+            "name" : "Stark",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        },
+        {
+            "Customer_id" : 1,
+            "date" : "Fri,Aug 10",
+            "tokanNo" : 3,
+            "name" : "Navin",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        },
+        {
+            "Customer_id" : 1,
+            "date" : "Tue,Oct 28",
+            "tokanNo" : 4,
+            "name" : "Sudharsan",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        },
+        {
+            "Customer_id" : 1,
+            "date" : "Tue,Dec 18",
+            "tokanNo" : 5,
+            "name" : "Gokul",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        },
+        {
+            "Customer_id" : 1,
+            "date" : "Wed,Mar 28",
+            "tokanNo" : 6,
+            "name" : "Surya",
+            "event" : "Brand Of The Year 2023-24",
+            "location" : "Salem"
+        }
+    ]
+}
+
